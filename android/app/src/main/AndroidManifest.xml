@@ -2,7 +2,11 @@
     <application
         android:label="i_am_rich"
         android:name="${applicationName}"
+<<<<<<< HEAD
         android:icon="@mipmap/icoo">
+=======
+        android:icon="@mipmap/ic_launcher">
+>>>>>>> i_am_rich/master
         <activity
             android:name=".MainActivity"
             android:exported="true"

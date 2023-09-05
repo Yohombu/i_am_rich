@@ -13,7 +13,13 @@ void main() {
           backgroundColor: Colors.blueGrey[900],
         ),
         body: const Center(
+<<<<<<< HEAD
           child: Image(image: AssetImage('images/1.webp')),
+=======
+          child: Image(
+              image: NetworkImage(
+                  'https://iamfearlesssoul.com/wp-content/uploads/2018/01/i-am-rich-web-maybe.jpg')),
+>>>>>>> i_am_rich/master
         ),
       ),
     ),
